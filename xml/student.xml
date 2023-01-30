@@ -1,0 +1,12 @@
+<students>
+    <student sr="1">
+        <name> Al-Amin </name>
+        <s_id> 1222-221-1</s_id>
+        <email>alamin@aiub.edu</email>
+    </student>
+    <student sr="2">
+        <name> ABC </name>
+        <s_id> 222-33344-2</s_id>
+        <email></email>
+    </student>
+</students>
