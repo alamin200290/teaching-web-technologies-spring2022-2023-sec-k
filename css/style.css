@@ -1,0 +1,30 @@
+#d1{
+    border: 1px solid black;
+    width: 400px;
+    height: 250px;
+    background-color: greenyellow;
+    /* margin: 10px 15px; */
+    /* padding: 10px; */
+    /* position: static;
+    position: fixed;
+    position: sticky; */
+    position: relative;
+    /* position: absolute; */
+    border-radius: 10px;
+    top: 100px;
+    left: 300px;
+}
+
+#d3{
+    width: 120px;
+    height: 120px;
+    background-color: red;
+    position: absolute;
+    left: 135px;
+    top: 70px;
+    border-radius: 50%;
+}
+
+#d2 {
+    background-color: blueviolet;
+}
